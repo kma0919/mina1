@@ -10,7 +10,7 @@ public class mina1 {
 		
 		System.out.println(" local ori2");
 		System.out.println(" local ori33");
-		
+		System.out.println(" local orisddsdsd33");
 		
 		
 	}
