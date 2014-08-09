@@ -9,6 +9,7 @@ public class mina1 {
 		System.out.println(" local ori1");
 		
 		System.out.println(" local ori2");
+		System.out.println(" local ori33");
 		
 		
 		
