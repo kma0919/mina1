@@ -14,6 +14,8 @@ public class mina1 {
 		
 		System.out.println("`111");
 		
+		System.out.println(" server 추가1");
+		
 	}
 
 }
