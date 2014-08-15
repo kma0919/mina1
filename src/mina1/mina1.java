@@ -7,7 +7,7 @@ public class mina1 {
 		// TODO Auto-generated method stub
 
 
-		System.out.println(" server add 1");
+		System.out.println(" server add 2");
 //민블 브랜치 덮고싶어용~
 
 
