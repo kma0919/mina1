@@ -11,7 +11,7 @@ public class mina2 {
 		
 		System.out.println(" server add 1");
 
-		System.out.println(" local ori123");
+		System.out.println(" local ori124443");
 
 		
 
