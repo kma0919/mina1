@@ -8,7 +8,11 @@ public class mina1 {
 
 
 //<<<<<<< HEAD
+//<<<<<<< HEAD
 		System.out.println(" hoho 브랜치 덮기sssss");
+//=======
+		System.out.println(" hoho 브랜치 덮기");
+//>>>>>>> refs/remotes/origin/hoho
 //민블 브랜치 덮고싶어용~
 
 //=======
