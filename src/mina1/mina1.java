@@ -27,10 +27,7 @@ public class mina1 {
 		System.out.println(" server 추가1");
 		System.out.println("`1112222222");
 		
-		System.out.println(" server 추가1");
-		System.out.println("`1112222222");
-		
-		System.out.println(" server 추가122");
+		//새로운 브런치 입니당당당
 
 	}
 
