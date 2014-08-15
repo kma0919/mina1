@@ -9,7 +9,11 @@ public class mina2 {
 //<<<<<<< HEAD
 
 		//branchTest1 덮고싶어용~
+<<<<<<< HEAD
 		System.out.println(" master1");
+=======
+		System.out.println(" branchTest1");
+>>>>>>> refs/remotes/origin/branchTest1
 
 //=======
 		System.out.println(" local ori123");
