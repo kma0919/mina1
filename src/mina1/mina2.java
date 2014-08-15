@@ -8,7 +8,7 @@ public class mina2 {
 				
 
 		//branchTest1 덮고싶어용~
-		System.out.println(" branchTest1");
+		System.out.println(" master1");
 
 		
 
