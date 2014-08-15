@@ -7,7 +7,7 @@ public class mina1 {
 		// TODO Auto-generated method stub
 
 
-		System.out.println(" hoho 브랜치 덮기");
+		System.out.println(" hoho 브랜치 덮기sss");
 //민블 브랜치 덮고싶어용~
 
 
