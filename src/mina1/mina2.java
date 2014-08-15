@@ -7,7 +7,7 @@ public class mina2 {
 		// TODO Auto-generated method stub
 				
 
-		System.out.println(" local ori123");
+		System.out.println(" local ori123444444");
 
 		
 
