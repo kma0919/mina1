@@ -7,7 +7,7 @@ public class mina1 {
 		// TODO Auto-generated method stub
 
 		//branchTest1 덮고싶어용~
-		System.out.println(" branchTest1");
+		System.out.println(" branchTest1sssss");
 //branchTest1 덮고싶어용~
 
 
