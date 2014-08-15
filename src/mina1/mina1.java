@@ -6,9 +6,9 @@ public class mina1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-
-		System.out.println(" server add 1");
-//민블 브랜치 덮고싶어용~
+		//branchTest1 덮고싶어용~
+		System.out.println(" branchTest1");
+//branchTest1 덮고싶어용~
 
 
 	}
