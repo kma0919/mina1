@@ -12,7 +12,9 @@ public class mina1 {
 		System.out.println(" local ori33");
 		System.out.println(" local orisddsdsd33");
 		
-		System.out.println("`111");
+		System.out.println("`1112222222");
+		
+		System.out.println(" server 추가1");
 		
 		System.out.println(" server 추가1");
 		
