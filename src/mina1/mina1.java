@@ -16,7 +16,7 @@ public class mina1 {
 
 		System.out.println(" local ori1 서버 추가");
 		
-		System.out.println(" local ori24444");
+		System.out.println(" local ori244441");
 		
 		
 		
