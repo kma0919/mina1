@@ -7,7 +7,8 @@ public class mina2 {
 		// TODO Auto-generated method stub
 				
 
-		System.out.println(" local ori123444444");
+		//branchTest1 덮고싶어용~
+		System.out.println(" branchTest1");
 
 		
 
